@@ -1,0 +1,16 @@
+{
+    "user":{
+        "name": "Karan",
+        "job": "Software Eng"
+    },
+    "user1":{
+        "name": "Govind",
+        "job": "System Eng"
+    },
+    "user2":{
+        "name": "Amit",
+        "job": "QA"
+    }
+
+
+}
